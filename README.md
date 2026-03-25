@@ -6,11 +6,13 @@ This project is developed to demonstrate full-stack development using modern tec
 
 
 🛠️ Tech Stack
+
 🔹 Frontend
 React.js
 Axios
 React Router
 CSS
+
 🔹 Backend
 Spring Boot
 REST APIs
@@ -31,7 +33,9 @@ View all products
 Delete products
 Manage product details
 
+
 🚀 How to Run the Project
+
 🔹 Backend Setup
 Open backend folder
 Configure MySQL database in application.properties
